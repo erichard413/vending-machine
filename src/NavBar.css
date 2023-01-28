@@ -1,0 +1,23 @@
+.NavBar {
+    display: absolute;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0,0,0,0.3);
+    width: 100vw;
+    height: 40px;
+    margin: 0px;
+    padding: 5px;
+    z-index: 1;
+}
+
+.NavBar a {
+    color: white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.NavBar a.active {
+    color: rgb(28, 221, 228);
+}

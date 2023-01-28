@@ -1,0 +1,40 @@
+.Chips-box {
+    display: relative;
+    position: relative;
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+    background-color: rgba(0,0,0,0.3);
+    width: 400px;
+    height: 180px;
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+    z-index: 1;
+}
+
+.Chips-box p {
+    color: white;
+    margin: 15px;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.Chips-box a {
+    color: white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.Chips-box button {
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    background-color: rgb(158, 28, 28);
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+    border-radius: 10%;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 15px;   
+}

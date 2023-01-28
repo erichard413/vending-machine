@@ -1,0 +1,31 @@
+.FreshSardines {
+    background-image: url('https://64.media.tumblr.com/d160dba2d7bdcaa6c972b477f6acd5d7/tumblr_njvnd9zupc1qm9k25o1_500.gifv');
+    position: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh; 
+}
+
+.FreshSardines-message {
+    display: absolute;
+    position: relative;
+    top: 30%;
+    margin: auto;
+    background-color: rgba(0,0,0,0.3);
+    width: 400px;
+    height: 180px;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.FreshSardines-message p {
+    color: white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.FreshSardines-link {
+    color: white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
