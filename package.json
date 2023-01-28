@@ -1,6 +1,6 @@
 {
-  "homepage": "https://erichard413.github.io/react-router-vending-machine",
-  "name": "react-router-vending-machine",
+  "homepage": "https://erichard413.github.io/vending-machine",
+  "name": "vending-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
