@@ -12,13 +12,13 @@ const VendingMachine = () => {
             <div className="options">
                 <ul className="ul-options">
                     <li>
-                        <NavLink to='soda'>SODA</NavLink>
+                        <NavLink to='/soda'>SODA</NavLink>
                     </li>
                     <li>
-                        <NavLink to='chips'>CHIPS</NavLink>
+                        <NavLink to='/chips'>CHIPS</NavLink>
                     </li>
                     <li>
-                        <NavLink to='freshsardines'>FRESH SARDINES</NavLink>
+                        <NavLink to='/freshsardines'>FRESH SARDINES</NavLink>
                     </li>
                 </ul>
             </div>
