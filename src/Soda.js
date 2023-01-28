@@ -12,7 +12,7 @@ const Soda = () => {
                 </div>
                 <div className="Soda-main">
                     <p>OMG SUGAR!!</p>
-                    <NavLink to='/'>GO BACK</NavLink>
+                    <NavLink to='/vending-machine'>GO BACK</NavLink>
                 </div>
                 <div className="Soda-img-r">
                     <img src={img} alt="Coca Cola can"/>

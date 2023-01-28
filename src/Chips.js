@@ -22,7 +22,7 @@ const Chips = () => {
             <div className="Chips-box">
                 <p>Bags Eaten: {chips.length}</p>
                 <button onClick={addChip}>NOM NOM NOM</button>
-                <NavLink to='/'>GO BACK</NavLink>
+                <NavLink to='/vending-machine'>GO BACK</NavLink>
             </div>
             <div className="Chips-div">
                 {chips.map(c => <Chip key={uuid()} x={c.x} y={c.y} />)}
