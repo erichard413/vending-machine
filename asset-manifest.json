@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vending-machine/static/css/main.c9e821d9.css",
-    "main.js": "/vending-machine/static/js/main.6529b298.js",
+    "main.css": "/vending-machine/static/css/main.f7b17415.css",
+    "main.js": "/vending-machine/static/js/main.a954f0a0.js",
     "static/js/787.a3838122.chunk.js": "/vending-machine/static/js/787.a3838122.chunk.js",
     "static/media/vendingmachine.png": "/vending-machine/static/media/vendingmachine.7b82605f83e25a2a7d4b.png",
     "static/media/chip.png": "/vending-machine/static/media/chip.ac867f31ad75e58574c7.png",
     "static/media/soda.png": "/vending-machine/static/media/soda.bd9f9cc7683cbabc4816.png",
     "index.html": "/vending-machine/index.html",
-    "main.c9e821d9.css.map": "/vending-machine/static/css/main.c9e821d9.css.map",
-    "main.6529b298.js.map": "/vending-machine/static/js/main.6529b298.js.map",
+    "main.f7b17415.css.map": "/vending-machine/static/css/main.f7b17415.css.map",
+    "main.a954f0a0.js.map": "/vending-machine/static/js/main.a954f0a0.js.map",
     "787.a3838122.chunk.js.map": "/vending-machine/static/js/787.a3838122.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9e821d9.css",
-    "static/js/main.6529b298.js"
+    "static/css/main.f7b17415.css",
+    "static/js/main.a954f0a0.js"
   ]
 }
