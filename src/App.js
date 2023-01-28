@@ -25,6 +25,7 @@ function App() {
       <BrowserRouter>
       <NavBar />
         <Routes>
+          <Route exact path="/vending-machine" element={<VendingMachine />}/>
           <Route exact path="/" element={<VendingMachine />}/>
           <Route exact path="/soda" element={<Soda />}/>
           <Route exact path="/chips" element={<Chips />}/>
